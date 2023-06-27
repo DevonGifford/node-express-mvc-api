@@ -1,7 +1,7 @@
 <div align="center">
    <h1>Node-Express-MVC-API</h1>
-   <h3>Hands-On Learning Repository</h3>
-   <p><em>A hands-on learning repository for Node.js and Express.  Covering foundational concepts to advanced features like JWT authentication and MongoDB integration.  Creating powerful APIs, which include building a web server and implementing user authentication and authorization.</em><p>
+   <!-- <h3>Hands-On Learning Repository</h3> -->
+   <h4><em>This is a Node.js and Express Hands-On Learning Repository. <br/> Covering foundational concepts to advanced features</em><h4>
    <img src="https://skillicons.dev/icons?i=nodejs,express,mongo,js" />
 </div>
 <br/>
@@ -11,8 +11,8 @@
 
 # **INTRODUCTION**
 
-This is a Node.js and Express Hands-On Learning Repository. Covering foundational concepts to advanced features like JWT authentication and MongoDB integration.
-Learning to create APIs, including building a web server and implementing user authentication and authorization.
+A hands-on learning repository for Node.js and Express.  Covering foundational concepts to advanced features like JWT authentication and MongoDB integration.  Creating powerful APIs, which include building a web server and implementing user authentication and authorization.
+
 
 ### **Table of Contents**
 
@@ -25,43 +25,46 @@ Learning to create APIs, including building a web server and implementing user a
 
 <br/>
 
+
+
+
+
 <!-- ---------------------------------------------------------------- -->
+
+
+
+
 ---
 
 # **MAIN OBJECTIVES & FEATURES**
 
 1. <strong>Basic Web Server Setup:</strong><br/>
-This feature involves setting up a foundational web server using Node.js and Express. It includes creating routes, handling requests, and sending responses.
+Setting up a foundational web server using Node.js and ExpressJS and includes creating routes, handling requests, and sending responses.
 
 2. <strong>Middleware (Built-in and 3rd Party):</strong><br/>
-Middleware functions are integral to Express. This feature covers both built-in mid
-dleware provided by Express and the utilization of third-party middleware for tasks like request parsing, authentication, and error handling.
+As Middleware functions are integral to Express. Using both built-in middleware provided by Express and the utilization of third-party and custom middleware for tasks like request parsing, authentication, and error handling.
 
 3. <strong>Handling CORS (Cross-Origin Resource Sharing):</strong><br/>
-CORS is a security feature implemented by web browsers that restricts web applications running at one origin from making requests to a 
-different origin. This feature shows how to handle CORS headers to allow or deny requests from different origins.
+CORS is an important security feature implemented by web browsers. Covers configuring CORS headers to control which origins are allowed or denied access to the API.
 
-4. <strong>Best Practices with Error Handling:</strong><br/>
-Proper error handling is crucial in any application. This feature focuses on implementing best practices for error handling, including 
-how to capture and respond to different types of errors effectively.
+1. <strong>Best Practices with Error Handling:</strong><br/>
+Proper error handling is crucial in any application. Focusing on implementing best practices for error handling, includes capturing and responding to different types of errors.
 
-5. <strong>Routing (Different Endpoints and Dynamic Routing with Express):</strong><br/>
-Routing is fundamental to building APIs. This feature delves into setting up various endpoints or routes to handle different types of 
-requests (GET, POST, PUT, DELETE). It also covers dynamic routing, where routes are defined with variables.
+1. <strong>Routing (Different Endpoints and Dynamic Routing with Express):</strong><br/>
+Routing is fundamental to building APIs. Set up various endpoints or routes to handle different types of 
+requests (GET, POST, PUT, DELETE). Also covers dynamic routing, where routes are defined with variables.
 
-6. <strong>Async CRUD (Create, Read, Update, Delete) Operations:</strong><br/>
-CRUD operations are core functionalities of any API. This feature demonstrates how to perform these operations asynchronously, ensuring 
+1. <strong>Async CRUD (Create, Read, Update, Delete) Operations:</strong><br/>
+CRUD operations are core functionalities of any API. Demonstrate performing these operations asynchronously, ensuring 
 efficiency and responsiveness, especially when dealing with databases.
 
-7. <strong>Organizing Codebase Using MVC (Model-View-Controller) Method:</strong><br/>
-The MVC pattern is widely used for structuring applications. This feature guides on how to organize code into Models (for data 
-management), Views (for rendering), and Controllers (for managing requests and responses) to enhance maintainability and scalability.
+1. <strong>Organizing Codebase Using MVC (Model-View-Controller) Method:</strong><br/>
+The MVC pattern is widely used for structuring applications. Project implements and follows this design pattern to organize code into Models (for data management), Views (for rendering), and Controllers (for managing requests and responses) to enhance maintainability & scalability.
 
-8. <strong>Integrating and Interacting with a MongoDB Database, Using Mongoose (ODM):</strong><br/>
-MongoDB is a popular NoSQL database, and Mongoose is an ODM (Object Document Mapper) that simplifies interactions with it. This feature 
-covers how to connect, query, and manipulate data in a MongoDB database using Mongoose.
+1. <strong>Integrating and Interacting with a MongoDB Database, Using Mongoose (ODM):</strong><br/>
+MongoDB is a popular NoSQL database, and Mongoose is an ODM (Object Document Mapper) that simplifies interactions with it. Connecting, querying, and manipulating data in a MongoDB database using Mongoose.
 
-9. <strong>Implementing Authentication Mechanisms for User Management:</strong><br/>
+1. <strong>Implementing Authentication Mechanisms for User Management:</strong><br/>
 This feature is crucial for securing APIs. It includes implementing various authentication mechanisms, such as JSON Web Tokens (JWT), 
 which provide secure authentication tokens, as well as managing user roles and authorizations to control access.
 
@@ -74,20 +77,20 @@ User roles are used to categorize users based on their privileges. This feature 
    - <strong>Authorization:</strong><br/>
 Authorization ensures that only authenticated users with specific roles or permissions can access certain routes or perform certain actions within the application.
 
-
-
-
-
-
-
-
-
-
-
-
 <br/>
 
+
+
+
+
+
 <!-- ---------------------------------------------------------------- -->
+
+
+
+
+
+
 ---
 
 # **BRANCHES:**
@@ -143,7 +146,7 @@ npm i
 ##### 3. Setup MongoDB URL
 
 ```js
-server.ts;
+server.js;
 
 const MONGO_URL = ""; // INSERT YOUR DB URI
 ```
@@ -162,10 +165,11 @@ Running commands with npm `npm run [command]`
 
 ---
 
-# **CONTRIBUTING**
+# **CONTRIBUTIONS**
 
 If you'd like to contribute to this repository by adding more exercises, fixing bugs, or improving documentation, please feel free to submit a pull request. Your contributions are greatly appreciated!
 
+Special thank you to [Dave Gray](https://github.com/gitdagray) for all the guidance!
 <br/>
 
 
