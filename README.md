@@ -97,21 +97,21 @@ Authorization ensures that only authenticated users with specific roles or permi
 
 [1. Basic Web Server Setup](🎯)
 
-[2. Incorporate ExpressJs](🎯)
+[2. Incorporating ExpressJs](🎯)
 
 [3. Setting up Middleware](🎯)
 
-[4. Setup Routing](🎯)
+[4. Setting up Routing](🎯)
 
 [5. MVC REST API](🎯)
 
 [6. Setting up Authentication](🎯)
 
-[7. Create JWT Auth](🎯)
+[7. Implement JWT Auth](🎯)
 
 [8. User Roles | Authorization](🎯)
 
-[9. Intro to MongoDB & Mongoose](🎯)
+[9. Setting up MongoDB & Mongoose](🎯)
 
 [10. Mongoose Data Models](🎯)
 
