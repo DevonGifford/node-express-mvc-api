@@ -16,11 +16,11 @@ A hands-on learning repository for Node.js and Express.  Covering foundational c
 
 ### **Table of Contents**
 
-- [Main Objectives & Features](🎯)
-- [Branches](🎯)
-- [Running Locally](🎯)
-- [Contributing](🎯)
-- [License](🎯)
+- [Main Objectives & Features](https://github.com/DevonGifford/node-express-mvc-api#main-objectives--features)
+- [Branches](https://github.com/DevonGifford/node-express-mvc-api#branches)
+- [Running Locally](https://github.com/DevonGifford/node-express-mvc-api#running-locally)
+- [Contributions](https://github.com/DevonGifford/node-express-mvc-api#contributions)
+- [License](https://github.com/DevonGifford/node-express-mvc-api#license)
 - <em>[Node best practices](https://github.com/goldbergyoni/nodebestpractices) </em>
 
 <br/>
