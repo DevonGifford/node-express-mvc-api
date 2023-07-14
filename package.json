@@ -1,13 +1,13 @@
 {
-  "name": "05tut",
+  "name": "node-express-mvc-api",
   "version": "1.0.0",
-  "description": "Node.js Web Server tutorial",
+  "description": "Hands on learning project",
   "main": "server.js",
   "scripts": {
     "start": "node server",
     "dev": "nodemon server"
   },
-  "author": "Dave Gray",
+  "author": "Devon Gifford",
   "license": "ISC",
   "dependencies": {
     "date-fns": "^2.23.0",
