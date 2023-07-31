@@ -95,27 +95,25 @@ Authorization ensures that only authenticated users with specific roles or permi
 
 # **BRANCHES:**
 
-[1. Basic Web Server Setup](🎯)
+[1. Basic Web Server Setup](https://github.com/DevonGifford/node-express-mvc-api/tree/1.Basic-Web-Server-Setup)
 
-[2. Incorporating ExpressJs](🎯)
+[2. Incorporating ExpressJs](https://github.com/DevonGifford/node-express-mvc-api/tree/2.Incorporating-ExpressJs)
 
-[3. Setting up Middleware](🎯)
+[3. Setting up Middleware](https://github.com/DevonGifford/node-express-mvc-api/tree/3.Setting-up-Middleware)
 
-[4. Setting up Routing](🎯)
+[4. Setting up Routing](https://github.com/DevonGifford/node-express-mvc-api/tree/4.Setting-up-Routing)
 
-[5. MVC REST API](🎯)
+[5. MVC REST API](https://github.com/DevonGifford/node-express-mvc-api/tree/5.MVC-REST-API)
 
-[6. Setting up Authentication](🎯)
+[6. Setting up Authentication](https://github.com/DevonGifford/node-express-mvc-api/tree/6.Setting-up-Authentication)
 
-[7. Implement JWT Auth](🎯)
+[7. Implement JWT Auth](https://github.com/DevonGifford/node-express-mvc-api/tree/7.Implement-JWT-Auth)
 
-[8. User Roles | Authorization](🎯)
+[8. User Roles | Authorization](https://github.com/DevonGifford/node-express-mvc-api/tree/8.User-Role-Authorization)
 
-[9. Setting up MongoDB & Mongoose](🎯)
+[9. Setting up MongoDB & Mongoose Data Models](🎯)
 
-[10. Mongoose Data Models](🎯)
-
-[11. Async CRUD Operations](🎯)
+[10. Async CRUD Operations](🎯)
 
 
 <br/>
