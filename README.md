@@ -111,7 +111,7 @@ Authorization ensures that only authenticated users with specific roles or permi
 
 [8. User Roles | Authorization](https://github.com/DevonGifford/node-express-mvc-api/tree/8.User-Role-Authorization)
 
-[9. Setting up MongoDB & Mongoose Data Models](🎯)
+[9. Setup MongoDB & Mongoose Data Models](https://github.com/DevonGifford/node-express-mvc-api/tree/9.Setup-MongoDB%2BMongoose-Data-Models)
 
 [10. Async CRUD Operations](🎯)
 
